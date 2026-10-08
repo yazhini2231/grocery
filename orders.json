@@ -1,0 +1,161 @@
+[
+  {
+    "id": "834093FD",
+    "name": "thana",
+    "phone": "6785673452",
+    "address": "chennai avadi",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 1,
+        "name": "Fresh Apples",
+        "quantity": 3,
+        "price": 120.0,
+        "subtotal": 360.0
+      }
+    ],
+    "total": 360.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "F75FB206",
+    "name": "kumar",
+    "phone": "6785408876",
+    "address": "chennai koyembedu",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 1,
+        "name": "Fresh Apples",
+        "quantity": 5,
+        "price": 120.0,
+        "subtotal": 600.0
+      }
+    ],
+    "total": 600.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "33976E6C",
+    "name": "yazhi",
+    "phone": "6785435678",
+    "address": "dtfghjknmbvcfdftyguhijknbvcfdtfyguhj",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 8,
+        "name": "Orange Juice",
+        "quantity": 1,
+        "price": 85.0,
+        "subtotal": 85.0
+      }
+    ],
+    "total": 85.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "8FFD875B",
+    "name": "suba",
+    "phone": "6784554983",
+    "address": "kmjnhbgvfcdxs",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 3,
+        "name": "Tomatoes",
+        "quantity": 1,
+        "price": 35.0,
+        "subtotal": 35.0
+      }
+    ],
+    "total": 35.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "59B45629",
+    "name": "yazhini",
+    "phone": "8675439755",
+    "address": "chennai",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 3,
+        "name": "Tomatoes",
+        "quantity": 1,
+        "price": 35.0,
+        "subtotal": 35.0
+      }
+    ],
+    "total": 35.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "EFB2960B",
+    "name": "yazh",
+    "phone": "5678905432",
+    "address": "dftyguikjhgbcvxvvhjk",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 1,
+        "name": "Fresh Apples",
+        "quantity": 1,
+        "price": 120.0,
+        "subtotal": 120.0
+      }
+    ],
+    "total": 120.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "9678CF2C",
+    "name": "hari",
+    "phone": "7894563451",
+    "address": "erapavur",
+    "delivery_date": "2026-10-09",
+    "slot": "9:00 AM - 12:00 PM",
+    "items": [
+      {
+        "id": 3,
+        "name": "Tomatoes",
+        "quantity": 1,
+        "price": 35.0,
+        "subtotal": 35.0
+      }
+    ],
+    "total": 35.0,
+    "status": "Confirmed"
+  },
+  {
+    "id": "B448582D",
+    "name": "yzhi",
+    "phone": "1234556789",
+    "address": "tyjhlk,gxfghjkjhvcvbnm",
+    "delivery_date": "2026-10-09",
+    "slot": "12:00 PM - 3:00 PM",
+    "items": [
+      {
+        "id": 1,
+        "name": "Fresh Apples",
+        "quantity": 1,
+        "price": 120.0,
+        "subtotal": 120.0
+      },
+      {
+        "id": 7,
+        "name": "Rice (1 kg)",
+        "quantity": 1,
+        "price": 70.0,
+        "subtotal": 70.0
+      }
+    ],
+    "total": 190.0,
+    "status": "Confirmed"
+  }
+]

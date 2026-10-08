@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Apples",
+    "category": "Fruits",
+    "price": 120.0,
+    "stock": 15,
+    "emoji": "🍎"
+  },
+  {
+    "id": 2,
+    "name": "Bananas",
+    "category": "Fruits",
+    "price": 50.0,
+    "stock": 40,
+    "emoji": "🍌"
+  },
+  {
+    "id": 3,
+    "name": "Tomatoes",
+    "category": "Vegetables",
+    "price": 35.0,
+    "stock": 27,
+    "emoji": "🍅"
+  },
+  {
+    "id": 4,
+    "name": "Carrots",
+    "category": "Vegetables",
+    "price": 45.0,
+    "stock": 20,
+    "emoji": "🥕"
+  },
+  {
+    "id": 5,
+    "name": "Milk",
+    "category": "Dairy",
+    "price": 32.0,
+    "stock": 35,
+    "emoji": "🥛"
+  },
+  {
+    "id": 6,
+    "name": "Bread",
+    "category": "Bakery",
+    "price": 45.0,
+    "stock": 18,
+    "emoji": "🍞"
+  },
+  {
+    "id": 7,
+    "name": "Rice (1 kg)",
+    "category": "Staples",
+    "price": 70.0,
+    "stock": 49,
+    "emoji": "🍚"
+  },
+  {
+    "id": 8,
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "price": 85.0,
+    "stock": 14,
+    "emoji": "🧃"
+  }
+]
